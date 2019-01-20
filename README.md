@@ -4,4 +4,4 @@ Note that only notebooks with personally completed exercise components are inclu
 
 For a detailed description of each course, please visit the specific links
 
-Pandas -https://www.kaggle.com/learn/pandas
+*Pandas - https://www.kaggle.com/learn/pandas
